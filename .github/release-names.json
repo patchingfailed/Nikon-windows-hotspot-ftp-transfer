@@ -1,0 +1,9 @@
+{
+  "_comment": "Release code names: the major version picks a family of large sea animals, the minor version a member of it. Patch releases keep the name. Append new names at the end; never reorder.",
+  "1": { "family": "Rays", "names": ["Manta", "Mobula", "Eagle Ray", "Stingray", "Sawfish", "Torpedo Ray"] },
+  "2": { "family": "Sharks", "names": ["Whale Shark", "Hammerhead", "Great White", "Tiger Shark", "Thresher", "Oceanic Whitetip", "Mako", "Basking Shark"] },
+  "3": { "family": "Whales", "names": ["Humpback", "Blue Whale", "Sperm Whale", "Fin Whale", "Grey Whale", "Minke"] },
+  "4": { "family": "Sea Turtles", "names": ["Green Turtle", "Hawksbill", "Loggerhead", "Leatherback", "Olive Ridley"] },
+  "5": { "family": "Dolphins", "names": ["Orca", "Bottlenose", "Spinner", "Risso's Dolphin", "Pilot Whale"] },
+  "6": { "family": "Giant Fish", "names": ["Mola Mola", "Napoleon Wrasse", "Goliath Grouper", "Bluefin Tuna", "Marlin"] }
+}
