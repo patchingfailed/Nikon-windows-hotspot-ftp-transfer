@@ -1,0 +1,27 @@
+{
+  "ssid": "nikon-ftp",
+  "passphrase": "",
+  "hotspot_adapter_match": "",
+  "hotspot_ip": "192.168.137.1",
+  "ftp_port": 2121,
+  "pasv_ports": [
+    40000,
+    40100
+  ],
+  "user": "nikon",
+  "password": "",
+  "target": "~/Pictures/Nikon-FTP-Import",
+  "ui_port": 8765,
+  "auto_network": true,
+  "open_browser": true,
+  "status_interval": 4,
+  "scan_interval": 30,
+  "slow_mbps": 5.0,
+  "keep_awake": true,
+  "awake_idle_min": 10,
+  "lid_keep_running": false,
+  "file_pattern": "^(?P<prefix>_?[A-Za-z0-9]{3}_?)(?P<num>\\d{4})\\.",
+  "number_max": 9999,
+  "session_end_idle_s": 60,
+  "language": "auto"
+}
