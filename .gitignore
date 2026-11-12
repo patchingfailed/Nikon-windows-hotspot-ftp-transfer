@@ -1,0 +1,14 @@
+# persoenliche Einstellungen (Passwoerter, Pfade)
+config.json
+CLAUDE.local.md
+
+# Build
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/

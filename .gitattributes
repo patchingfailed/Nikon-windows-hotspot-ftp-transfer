@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# cmd.exe needs CRLF (labels/goto can break with LF only)
+*.cmd text eol=crlf
